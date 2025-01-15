@@ -4,8 +4,8 @@
   --secondary-color: #ffffff;
   --app-background-color: #ba3b3b;
   --background-color: #811617;
-  --foreground-color: #3b3b4f;
-  --highlight-color: #f1be32;
+  --foreground-color: #000000;
+  --highlight-color: ##CDB8B5;
 
   /* font sizes */
   --root-font-size: 16px;
